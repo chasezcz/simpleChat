@@ -20,4 +20,4 @@
 
 ## 原理
 大体步骤 如下：
-![](http://assets.processon.com/chart_image/5c41a3f3e4b048f108d5d539.png ''步骤'')
+![](http://assets.processon.com/chart_image/5c41a3f3e4b048f108d5d539.png)
