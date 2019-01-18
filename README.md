@@ -19,4 +19,5 @@
 ---
 
 ## 原理
-https://www.processon.com/view/link/5c41a3f4e4b0fa03ce9f2134
+大体步骤 如下：
+![](http://assets.processon.com/chart_image/5c41a3f3e4b048f108d5d539.png ''步骤'')
